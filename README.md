@@ -6,6 +6,6 @@ Pet-project developed on Vue, allowing you to track the weather in any city via 
 
 # Actions to start
 
-npm install - install packages
-npm run dev - run project on development mode
-npm run build - run build for production
+npm install - install packages  
+npm run dev - run project on development mode  
+npm run build - run build for production  
